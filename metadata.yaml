@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39349
     wikipedia: http://www.gutenberg.org/ebooks/author/38288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38251#Oscar-Wilde
 gutenberg_issued: '2011-12-09'
 gutenberg_type: Text
 identifiers:
